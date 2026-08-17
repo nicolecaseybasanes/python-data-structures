@@ -29,9 +29,6 @@ python-data-structures/
 ├── Tuples/
 │   └── ...
 │
-├── Sets/
-│   └── ...
-│
 ├── Dictionaries/
 │   └── ...
 │
